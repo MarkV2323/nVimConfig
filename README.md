@@ -37,8 +37,9 @@ After installing a plugin, you should ensure a config file under `after/plugin` 
 ### Hotkey Cheatsheet
 <details>
 <summary>Click Me!</summary>
-<kbd>SPACE</kbd> - Leader Key  
-<kbd>LEADER</kbd> + <kbd>p</kbd>  + <kbd>v</kbd>  - Used to get into NetRW (nVim file browser)  
-<kbd>LEADER</kbd> + <kbd>p</kbd>  + <kbd>f</kbd>  - General File Search via Telescope Fuzzy Finder  
+<kbd>SPACE</kbd> - Leader Key
+
+<kbd>LEADER</kbd> + <kbd>p</kbd>  + <kbd>v</kbd>  - Used to get into NetRW (nVim file browser)
+
+<kbd>LEADER</kbd> + <kbd>p</kbd>  + <kbd>f</kbd>  - General File Search via Telescope Fuzzy Finder
 </details>
- 
